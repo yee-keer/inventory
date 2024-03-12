@@ -2,7 +2,7 @@
 
 # dependencies
 node_modules/
-
+./API
 # Expo
 .expo/
 dist/
